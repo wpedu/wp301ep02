@@ -25,7 +25,7 @@ Now that you have your child theme running and some custom page templates we hav
 ?>
 ```
 
-2. Create a new page in the wp-admin and set it to private. Give it the name "Testing Code". _We set the page to private so that only logged in admins can see it even though we are already in a save environment it is a good habit to be in when using test template pages like this._
+2. Create a new page in the wp-admin and set it to private. Give it the name "Testing Code". _We set the page to private so that only logged in admins can see it even though we are already in a safe environment it is a good habit to be in when using test template pages like this._
 3. Visit the page blank page. _Of course there is nothing there, the page is blank._
 4. Open up the tmp-testing.php file and add the following line of code below the commented template name.
 
