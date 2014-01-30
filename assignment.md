@@ -92,11 +92,7 @@ As a means to expodite the process of writing your own code for custom metaboxes
 
 2. Once the plugin is installed please take some time to browse it's admin, and read everything it has to offer. Learning a new plugin with this much power requires reading as well as using.
 
-3. Once you have a handle on what it says it does and it's options create some custom fields for pages. Keep it simple and create the following:
-
-- Secondary title
-- Disclaimer text
-- Secondary featured image
+3. Once you have a handle on what it says it does and it's options create some custom fields for pages. Keep it simple and create the following: Secondary title, Disclaimer text, Secondary featured image
 
 4. Use the functions that come with the plugin to display the fields you have created. 
 
